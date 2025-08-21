@@ -12,7 +12,7 @@ Olá, me chamo Vinicius Freitas Santos, tenho 24 anos e sou de São Paulo. Atual
             src="https://custom-icon-badges.demolab.com/github/stars/viniciusfrsantos2?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/viniciusfrsantos2?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
