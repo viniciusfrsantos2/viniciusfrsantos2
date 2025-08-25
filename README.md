@@ -2,8 +2,6 @@
 
 **`Desenvolvedor Web`**
 
-Olá, me chamo Vinicius Freitas Santos, tenho 24 anos e sou de São Paulo. Atualmente, estou estudando sobre desenvolvimento web de maneira independente. Sou apaixonado por tecnologia e procuro sempre dedicar o meu melhor aos projetos que realizo.
-
 <p align="left">
     <a href="https://github.com/viniciusfrsantos2?tab=repositories&sort=stargazers">
         <img 
